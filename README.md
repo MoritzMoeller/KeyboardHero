@@ -1,15 +1,13 @@
-HSRMKeyboardHero
+KeyboardHero
 ================
 
-Keyboard Hero is a game like Guitar Hero, but developed for PCs. It was a university project for a subject 
-called "Design of interactive user interface". The university is the RheinMain University of applied Sciences 
-in Wiesbaden, Germany.
+Keyboard Hero ist ein GuitarHero Klon. Dabei handelt es sich allerdings um ein PC Spiel. Es wurde im Rahnmen meines Studiums für das Modul Entwicklung interaktiver Benuteroberflöchen an der Hochschule RheinMain entwickelt.
 
-Features of the game:
-* Play guitar with your computer keyboard
-* Raise highscores
-* Import your own songs and record guitar srokes
-* Play music from SoundCloud
+Game-Features:
+* Spiele Gitarre auf deiner Tastatur
+* Steigere dich durch erreichen neuer Highscores
+* Es ist möglich eigene Songs zu importieren und diese mit Strokes zu belegen
+* SoundCloud Integration zur Erstellung neuer spielbarer Songs.
 
 
 

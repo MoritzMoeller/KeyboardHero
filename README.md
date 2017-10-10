@@ -1,7 +1,11 @@
 KeyboardHero
 ================
 
-Keyboard Hero ist ein GuitarHero Klon. Dabei handelt es sich allerdings um ein PC Spiel. Es wurde im Rahnmen meines Studiums für das Modul Entwicklung interaktiver Benuteroberflöchen an der Hochschule RheinMain entwickelt.
+Keyboard Hero ist ein GuitarHero Klon. Es wurde im Rahnmen meines Studiums für das Modul Entwicklung interaktiver Benutzeroberflächen an der Hochschule RheinMain entwickelt.
+
+Technologie:
+* Java
+* Swing
 
 Game-Features:
 * Spiele Gitarre auf deiner Tastatur
